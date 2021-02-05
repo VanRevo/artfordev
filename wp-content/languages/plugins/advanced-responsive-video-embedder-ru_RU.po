@@ -1,0 +1,328 @@
+# Translation of Plugins - ARVE Advanced Responsive Video Embedder (YouTube, Vimeo, HTML5 Video &#8230;) - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - ARVE Advanced Responsive Video Embedder (YouTube, Vimeo, HTML5 Video &#8230;) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-30 01:28:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - ARVE Advanced Responsive Video Embedder (YouTube, Vimeo, HTML5 Video &#8230;) - Stable (latest release)\n"
+
+#: php/functions-host-properties.php:796
+msgid "Do not show annotations"
+msgstr "Не показывать аннотации"
+
+#: php/functions-host-properties.php:867
+msgid "Theme"
+msgstr "Тема"
+
+#: php/functions-host-properties.php:864
+msgid "Dark"
+msgstr "Темная"
+
+#: php/functions-host-properties.php:858
+msgid "Start"
+msgstr "Начало"
+
+#: php/functions-host-properties.php:853
+msgid "Show Info"
+msgstr "Отображать информацию"
+
+#: php/functions-host-properties.php:848
+msgid "Related Videos at End"
+msgstr "Похожие видео в конце"
+
+#: php/functions-host-properties.php:843
+msgid "playsinline"
+msgstr "playsinline"
+
+#: php/functions-host-properties.php:833
+msgid "playerapiid"
+msgstr "playerapiid"
+
+#: php/functions-host-properties.php:828
+msgid "Origin"
+msgstr "Источник"
+
+#: php/functions-host-properties.php:823
+msgid "Modestbranding"
+msgstr "Ограничение брендинга"
+
+#: php/functions-host-properties.php:818
+msgid "Loop"
+msgstr "Цикличность"
+
+#: php/functions-host-properties.php:813
+msgid "List Type"
+msgstr "Вид списка"
+
+#: php/functions-host-properties.php:811
+msgid "User Uploads"
+msgstr "Загрузки пользователя"
+
+#: php/functions-host-properties.php:810
+msgid "Search"
+msgstr "Поиск"
+
+#: php/functions-host-properties.php:798
+msgid "iv_load_policy"
+msgstr "iv_load_policy"
+
+#: php/functions-host-properties.php:795
+msgid "Show annotations"
+msgstr "Отображать аннотации"
+
+#: php/functions-host-properties.php:789 php/functions-host-properties.php:803
+msgid "Language???"
+msgstr "Язык???"
+
+#: php/functions-host-properties.php:784
+msgid "Fullscreen"
+msgstr "Во весь экран"
+
+#: php/functions-host-properties.php:779
+msgid "End"
+msgstr "Конец"
+
+#: php/functions-host-properties.php:774
+msgid "JavaScript API"
+msgstr "JavaScript API"
+
+#: php/functions-host-properties.php:769
+msgid "disablekb"
+msgstr "disablekb"
+
+#: php/functions-host-properties.php:764
+msgid "Controls"
+msgstr "Управление"
+
+#: php/functions-host-properties.php:762
+msgid "Yes load after click"
+msgstr "Да, загружать после клика"
+
+#: php/functions-host-properties.php:754
+msgid "Color"
+msgstr "Цвет"
+
+#: php/functions-host-properties.php:752
+msgid "White"
+msgstr "Белый"
+
+#: php/functions-host-properties.php:751
+msgid "Red"
+msgstr "Красный"
+
+#: php/functions-host-properties.php:750 php/functions-host-properties.php:759
+#: php/functions-host-properties.php:794 php/functions-host-properties.php:808
+#: php/functions-host-properties.php:863
+msgid "Default"
+msgstr "По умолчанию"
+
+#: php/functions-host-properties.php:745
+msgid "cc_load_policy"
+msgstr "cc_load_policy"
+
+#: php/functions-host-properties.php:735
+msgid "Autohide"
+msgstr "Автоматически скрывать"
+
+#: php/functions-host-properties.php:722
+msgid "Byline"
+msgstr "Автор"
+
+#: php/functions-host-properties.php:721
+msgid "Badge"
+msgstr "Бейдж"
+
+#: php/functions-host-properties.php:865
+msgid "Light"
+msgstr "Светлый"
+
+#: php/functions-host-properties.php:809 php/functions-host-properties.php:838
+msgid "Playlist"
+msgstr "Плейлист"
+
+#: php/functions-settings.php:425
+msgid "Right"
+msgstr "Справа"
+
+#. Author URI of the plugin
+msgid "https://nextgenthemes.com"
+msgstr "https://nextgenthemes.com"
+
+#: php/functions-settings.php:30 php/functions-html-output.php:350
+msgid "ARVE"
+msgstr "ARVE"
+
+#: php/functions-shortcode-filters.php:265
+msgid "Not a valid thumbnail URL or Media ID given"
+msgstr "Предоставленная ссылка изображения для миниатюры или Media ID указана неверно"
+
+#: php/functions-shortcode-filters.php:257
+msgid "No attachment with that ID"
+msgstr "Вложения для данного ID отсутствуют"
+
+#: php/functions-settings.php:501
+msgid "Parameters"
+msgstr "Параметры"
+
+#: php/functions-settings.php:492
+msgid "Aspect Ratio"
+msgstr "Вид пропорции изображения"
+
+#: php/functions-settings.php:487
+msgid "In px, Needed! Must be 100+ to work."
+msgstr "Значение должно быть в пикселях и больше 100."
+
+#: php/functions-settings.php:287
+msgid "Upload Date"
+msgstr "Дата загрузки"
+
+#: php/functions-settings.php:277
+msgid "Description"
+msgstr "Описание"
+
+#: php/functions-settings.php:263
+msgid "Title"
+msgstr "Заголовок"
+
+#: php/functions-settings.php:333 php/functions-settings.php:334
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: php/functions-settings.php:446
+msgid "Shows a small 'ARVE' link below the videos. Be the most awesome person and help promoting this plugin."
+msgstr "Вы можете помочь в распространении информации об этом плагине включив отображение короткой ссылки \"ARVE\" под воспроизводимым видео."
+
+#: php/functions-settings.php:424
+msgid "Left"
+msgstr "Слева"
+
+#: php/functions-settings.php:397 php/functions-settings.php:423
+#: php/functions-host-properties.php:760
+msgid "None"
+msgstr "Отсутствует"
+
+#: php/functions-settings.php:419
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: php/functions-settings.php:248 php/functions-settings.php:250
+msgid "Video URL / iframe Embed Code"
+msgstr "Ссылка на видео / iframe Embed Code"
+
+#: php/functions-settings.php:443
+msgid "ARVE Link"
+msgstr "Поддержать ARVE"
+
+#: php/Common/Admin/functions-settings.php:124
+#: php/Admin/functions-admin.php:232
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#. Author of the plugin
+msgid "Nicolas Jonas"
+msgstr "Nicolas Jonas"
+
+#. Description of the plugin
+msgid "Easy responsive video embeds via URL (like WordPress) or Shortcodes. Supports almost anything you can imagine."
+msgstr "Встраивайте с лёгкостью ваши видео с помощью ссылок (как в WordPress) или коротких кодов. Мы осуществили поддержку практически любой функции, которую вы можете себе представить."
+
+#. Plugin Name of the plugin
+#: php/Admin/functions-admin.php:161
+msgid "ARVE Advanced Responsive Video Embedder"
+msgstr "ARVE Advanced Responsive Video Embedder"
+
+#: php/functions-html-output.php:349
+msgid "Embedded with ARVE Advanced Responsive Video Embedder WordPress plugin"
+msgstr "Встроено с помощью плагина WordPress ARVE Advanced Responsive Video Embedder"
+
+#. Translators: Alignment
+#: php/functions-validation.php:121
+msgid "Align <code>%s</code> not valid"
+msgstr "Выравнивание <code>%s</code> не верно"
+
+#: php/functions-shortcodes.php:100
+msgid "<abbr title=\"Advanced Responsive Video Embedder\">ARVE</abbr> Error:"
+msgstr "<abbr title=\"Advanced Responsive Video Embedder\">ARVE</abbr> Ошибка:"
+
+#: php/functions-host-properties.php:631
+msgid "The Parameter start only takes values in seconds, this will start the video at 1 minute and 1 second"
+msgstr "Этот параметр принимает значение в секундах и начнёт воспроизведение видео на 1 минуте и 1 секунде"
+
+#: php/functions-host-properties.php:625
+msgid "Testing Youtube Starttimes"
+msgstr "Тестирование времени начала воспроизведения Youtube"
+
+#: php/functions-host-properties.php:623
+msgid "Enable annotations and related video at the end (disable by default with this plugin)"
+msgstr "Включить аннотации и похожее видео в конце (по умолчанию данный параметр отключен)"
+
+#: php/functions-host-properties.php:621
+msgid "Loop a YouTube video"
+msgstr "Зациклить YouTube видео"
+
+#: php/functions-host-properties.php:619
+msgid "Youtube playlist URL inlusive the video to start at. The index part will be ignored and is not needed"
+msgstr "Ссылка на YouTube плейлист включает в себя время начала воспроизведения. Индексная часть ссылки будет проигнорирована, необходимость её включения отсутствует"
+
+#: php/functions-host-properties.php:617
+msgid "URL from youtu.be shortener"
+msgstr "Ссылка с короткого адреса youtu.be"
+
+#: php/functions-settings.php:210
+msgid "Normal"
+msgstr "Обычный"
+
+#: php/functions-settings.php:330 build/block.js:1
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: php/functions-settings.php:297
+msgid "Mode"
+msgstr "Режим"
+
+#: php/Admin/functions-admin.php:180 php/Admin/functions-admin.php:184
+msgid "No"
+msgstr "Нет"
+
+#: php/Admin/functions-admin.php:179 php/Admin/functions-admin.php:185
+#: php/functions-host-properties.php:761
+msgid "Yes"
+msgstr "Да"
+
+#: php/Admin/functions-settings-page.php:14
+msgid "URL Parameters"
+msgstr "Параметры ссылки"
+
+#: php/functions-settings.php:485
+msgid "Align Maximal Width"
+msgstr "Максимальная ширина при выравнивании"
+
+#: php/functions-settings.php:466
+msgid "Maximal Width"
+msgstr "Максимальная ширина"
+
+#: php/functions-settings.php:459 php/functions-host-properties.php:720
+#: php/functions-host-properties.php:740
+msgid "Autoplay"
+msgstr "Автозапуск"
+
+#: php/Admin/functions-admin.php:125
+msgid "Donate"
+msgstr "Поддержать разработку"
+
+#: php/Admin/functions-admin.php:119
+msgid "Buy Pro Addon"
+msgstr "Купить ПРО версию"
+
+#: php/Admin/functions-admin.php:75 php/Admin/functions-admin.php:131
+msgid "Settings"
+msgstr "Настройки"
+
+#: php/Admin/functions-admin.php:379
+msgid "Advanced Responsive Video Embedder Settings"
+msgstr "Настройки Advanced Responsive Video Embedder"
